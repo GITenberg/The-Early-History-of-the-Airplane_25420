@@ -1,0 +1,44 @@
+_repo: The-Early-History-of-the-Airplane_25420
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25420-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Wright, Orville
+    birthdate: 1871
+    deathdate: 1948
+    gutenberg_agent_id: '31323'
+    url: http://www.gutenberg.org/2009/agents/31323
+    wikipedia: http://en.wikipedia.org/wiki/Wright_brothers
+  - agent_name: Wright, Wilbur
+    birthdate: 1867
+    deathdate: 1912
+    gutenberg_agent_id: '31324'
+    url: http://www.gutenberg.org/2009/agents/31324
+    wikipedia: http://en.wikipedia.org/wiki/Wright_brothers
+description: The Wright brothers, Orville (1871-1948) and Wilbur (1867-1912), were
+  two Americans who are generally credited with inventing and building the world's
+  first successful airplane and making the first controlled, powered and sustained
+  heavier-than-air human flight in 1903.  In the two years afterward, the brothers
+  developed their flying machine into the first practical fixed-wing aircraft.  Although
+  not the first to build and fly experimental aircraft, the Wright brothers were the
+  first to invent aircraft controls that made fixed wing flight possible.  The brother's
+  fundamental breakthrough was their invention of "three axis-control," which enabled
+  the pilot to steer the aircraft effectively and to maintain its equilibrium.
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2008-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Airplanes'
+tableOfContents: The Wright brothers' aeroplane -- How we made the first flight --
+  Some aeronautical experiments.
+title: The Early History of the Airplane
+url: http://www.gutenberg.org/ebooks/25420
