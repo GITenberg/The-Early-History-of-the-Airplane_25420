@@ -40,6 +40,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'TL'
 - !lcsh 'Airplanes'
+- GITenberg
 tableOfContents: The Wright brothers' aeroplane -- How we made the first flight --
   Some aeronautical experiments.
 title: The Early History of the Airplane
